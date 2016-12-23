@@ -1,0 +1,5 @@
+#!/usr/bin/env bash
+
+sudo pip3 install pythondialog
+
+echo "Setup Complete!"
